@@ -36,10 +36,23 @@
 
 ## iOS
 ### 工具类
-#### [CocoaPods](https://cocoapods.org)
-  - [快速开始](https://guides.cocoapods.org)
+#### [CocoaPods](https://cocoapods.org) | [快速开始](https://guides.cocoapods.org)
+> Mac & iOS 平台下的第三方库管理工具，必备。
+
+#### [BugTags](https://www.bugtags.com) | [快速开始](https://docs.bugtags.com/zh/start/integrate/ios/cocoapods.html)
+> 目前国内最好用的崩溃分析，Bug收集平台。
+
+#### [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) | [文档](https://github.com/CocoaLumberjack/CocoaLumberjack/tree/master/Documentation) | [利用 CocoaLumberjack 搭建自己的 Log 系统](http://www.cocoachina.com/ios/20150311/11300.html) | 快速开始 `pod 'CocoaLumberjack'`
+> Mac和iOS上一个集快捷、简单、强大和灵活于一身的日志框架。专为Objective-C设计，利用了多线程、GCD（如果可用）、无锁原子操作Objective-C运行时的动态特性。
+
+### 图形处理
+#### [GPUImage](https://github.com/BradLarson/GPUImage) | 快速开始  `pod 'GPUImage'`
+> GPUImage是现在做滤镜最主流的开源框架,没有之一。
 
 ## Android
+### 工具类
+#### [BugTags](https://www.bugtags.com) | [快速开始](https://docs.bugtags.com/zh/start/integrate/android/index.html)
+> 目前国内最好用的崩溃分析，Bug收集平台。
 
 ## Javascript
 
