@@ -107,6 +107,10 @@
 #### [Reachability](https://github.com/tonymillion/Reachability) | 快速开始 `pod 'Reachability'`
 > 判断设备网络连接情况。相对于苹果官方的Reachability,这是一个更加高级、更加好用的Reachability,支持ARC、支持block、使用GCD方式来通知网络的变化。
 
+### 动画特效
+#### [RMPZoomTransitionAnimator](https://github.com/recruit-mp/RMPZoomTransitionAnimator) | 快速开始 `pod 'RMPZoomTransitionAnimator'`
+> 一个放大缩小的动效开源库，可以实现图片的放大缩小效果。
+
 ## Android
 ### 工具类
 #### [BugTags](https://www.bugtags.com) | [快速开始](https://docs.bugtags.com/zh/start/integrate/android/index.html)
