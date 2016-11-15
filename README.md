@@ -108,6 +108,15 @@
 #### [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) | 快速开始 `pod 'HMSegmentedControl'`
 > HMSegmentedControl 是 UISegmentedControl 的替代品,模仿了 Google Currents 使用的效果。
 
+#### [PYSearch](https://github.com/iphone5solo/PYSearch) | 快速开始 `pod 'PYSearch'`
+> iOS 中一款优雅的搜索控制器。支持多种热门搜索风格
+ 支持多种搜索历史风格
+ 支持多种搜索结果显示模式
+ 支持搜索建议
+ 支持搜索历史（记录）缓存
+ 支持使用delegate 或者 block 完成搜索时的回调
+ 支持CocoaPods
+ 
 
 ### 图形处理
 #### [GPUImage](https://github.com/BradLarson/GPUImage) | 快速开始  `pod 'GPUImage'`
