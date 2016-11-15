@@ -99,6 +99,16 @@
 #### [TZImagePickerController](https://github.com/banchichen/TZImagePickerController) |  快速开始 `pod 'TZImagePickerController'`
 > 一个支持多选、选原图和视频的图片选择器，同时有预览功能，适配了iOS6789系统。最像微信。
 
+#### [HHRouter](https://github.com/Huohua/HHRouter) | 快速开始 `pod 'HHRouter'`
+> Yet another URL Router for iOS.
+
+#### [EAIntroView](https://github.com/ealeksandrov/EAIntroView) | 快速开始 `pod 'EAIntroView'`
+> EAIntroView 是一个用来实现软件启动时介绍的控件,支持多个视图进行滑动显示。
+
+#### [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) | 快速开始 `pod 'HMSegmentedControl'`
+> HMSegmentedControl 是 UISegmentedControl 的替代品,模仿了 Google Currents 使用的效果。
+
+
 ### 图形处理
 #### [GPUImage](https://github.com/BradLarson/GPUImage) | 快速开始  `pod 'GPUImage'`
 > GPUImage是现在做滤镜最主流的开源框架,没有之一。
