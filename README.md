@@ -117,6 +117,8 @@
  支持使用delegate 或者 block 完成搜索时的回调
  支持CocoaPods
  
+#### [DeformationButton](https://github.com/LuciusLu/DeformationButton) | 快速开始 `pod 'DeformationButton'`
+> Loading动画效果的按钮 
 
 ### 图形处理
 #### [GPUImage](https://github.com/BradLarson/GPUImage) | 快速开始  `pod 'GPUImage'`
