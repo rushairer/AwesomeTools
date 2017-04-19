@@ -62,6 +62,9 @@
 #### [JKCategories](https://github.com/shaojiankui/JKCategories) | 快速安装 `pod 'JKCategories'`
 > 强大到不行不行的Category扩展包，比YYCategories还要多，也是必备之选，选哪个好呢？发愁。
 
+#### [JRNLocalNotificationCenter](https://github.com/jarinosuke/JRNLocalNotificationCenter)  | 快速开始 `pod 'JRNLocalNotificationCenter'`
+> UILocalNotification的封装类
+
 ### 界面控件
 #### [MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 快速开始 `pod 'MBProgressHUD'`
 > iOS里最火的进度条显示框之一，比老二更灵活一些。
