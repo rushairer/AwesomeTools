@@ -120,6 +120,9 @@
 #### [DeformationButton](https://github.com/LuciusLu/DeformationButton) | 快速开始 `pod 'DeformationButton'`
 > Loading动画效果的按钮 
 
+#### [TYAlertController](https://github.com/12207480/TYAlertController) | 快速开始 `pod 'TYAlertController'`
+> 一个很棒的Alter弹窗控件 
+
 ### 图形处理
 #### [GPUImage](https://github.com/BradLarson/GPUImage) | 快速开始  `pod 'GPUImage'`
 > GPUImage是现在做滤镜最主流的开源框架,没有之一。
