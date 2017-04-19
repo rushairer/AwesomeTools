@@ -75,6 +75,9 @@
 #### [RxWebViewController](https://github.com/Roxasora/RxWebViewController) | [其他维护版](https://github.com/yang0013/RxWebViewController) [使用说明](http://www.jianshu.com/p/9c4efe602b59)
 > 类似微信那样的WebView组件，作者有弃更嫌疑，建议看看其他维护者的。
 
+#### [RMessage](https://github.com/donileo/RMessage) | 快速开始 `pod 'RMessage'`
+> 一个超赞的消息展示banner组件
+
 #### [XHLaunchAd](https://github.com/CoderZhuXH/XHLaunchAd) | 快速开始 `pod 'XHLaunchAd'`
 > 几行代码接入启动页广告, 自带图片下载、缓存相关功能, 无任何第三方依赖 - 支持静态/动态、全屏/半屏广告。
 
