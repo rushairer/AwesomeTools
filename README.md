@@ -147,11 +147,27 @@
 > 目前国内最好用的崩溃分析，Bug收集平台。
 
 ## Javascript
+#### [Node.js](https://nodejs.org) | 快速开始 `brew install node`
+> Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境。
+
+#### [npm](https://www.npmjs.com) | 快速开始 `brew install node`
+> npm 是 JavaScript 世界的包管理工具,并且是 Node.js 平台的默认包管理工具。通过 npm 可以安装、共享、分发代码,管理项目依赖关系。
+
+#### [Vue.js](https://vuejs.org/) | [Github](https://github.com/vuejs/vue) | [中文官网](https://cn.vuejs.org/) | 快速开始 `npm install vue`
+> Vue.js（读音 /vjuː/, 类似于 view）是一个构建数据驱动的 web 界面的渐进式框架。Vue.js 的目标是通过尽可能简单的 API 实现响应的数据绑定和组合的视图组件。它不仅易于上手，还便于与第三方库或既有项目整合。
+
+#### [Electron](https://electronjs.org/) | [Github](https://github.com/electron) | 快速开始 `npm i -D electron@latest`
+> 使用 JavaScript, HTML 和 CSS 构建跨平台的桌面应用
 
 ## CSS
+#### [Bootstrap](https://getbootstrap.com) | 快速开始 `npm install bootstrap`
+> Bootstrap是Twitter推出的一个用于前端开发的开源工具包。
 
 ## MAC软件
 ### 开发工具
+#### [Homebrew](https://brew.sh) | 快速开始 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+> macOS 缺失的软件包的管理器
+
 #### [SourceTree](https://www.sourcetreeapp.com) 
 > 我觉得是Mac下最好用的git客户端软件了，不服来辩。而且支持Windows哦！
 
