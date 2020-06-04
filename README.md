@@ -72,6 +72,9 @@
 #### [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) | 快速开始 `pod 'SVProgressHUD'`
 > iOS里最火的进度条显示框之二。
 
+#### [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) |  快速开始 `pod 'M13ProgressSuite'`
+> 很棒的异步加载进度条。
+
 #### [JZNavigationExtension](https://github.com/JazysYu/JZNavigationExtension) | 快速开始 `pod 'JZNavigationExtension'`
 > 修改UINavigationController样式、增加全局收拾等，使你的导航控制器更加强大。
 
