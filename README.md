@@ -156,6 +156,12 @@
 #### [npm](https://www.npmjs.com) | 快速开始 `brew install node`
 > npm 是 JavaScript 世界的包管理工具,并且是 Node.js 平台的默认包管理工具。通过 npm 可以安装、共享、分发代码,管理项目依赖关系。
 
+#### [nvm](https://github.com/nvm-sh/nvm) | 快速开始 `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash`
+> nvm 是 node.js 版本管理器
+
+#### [nrm](https://github.com/Pana/nrm) | 快速开始 `npm install -g nrm`
+> nrm 是 node.js 源管理器
+
 #### [Vue.js](https://vuejs.org/) | [Github](https://github.com/vuejs/vue) | [中文官网](https://cn.vuejs.org/) | 快速开始 `npm install vue`
 > Vue.js（读音 /vjuː/, 类似于 view）是一个构建数据驱动的 web 界面的渐进式框架。Vue.js 的目标是通过尽可能简单的 API 实现响应的数据绑定和组合的视图组件。它不仅易于上手，还便于与第三方库或既有项目整合。
 
